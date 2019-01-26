@@ -1,6 +1,6 @@
 {
   "name": "d3-gauge-chart",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A re-creation of Google Charts's Gauge chart using D3. Only the basics are included: a label and a value.",
   "main": "d3-gauge-chart.js",
   "scripts": {
