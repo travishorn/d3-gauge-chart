@@ -1,0 +1,31 @@
+.gaugeChart-bezel-outer {
+  fill: none;
+  stroke: black;
+}
+
+.gaugeChart-bezel-inner {
+  fill: none;
+  stroke: #CCCCCC;
+}
+
+.gaugeChart-tick {
+  fill: none;
+  stroke: black;
+}
+
+.gaugeChart-face,
+.gaugeChart-tickHider {
+  stroke-width: 0;
+  fill: white;
+}
+
+.gaugeChart-needle {
+  stroke: #CD4120;
+  fill: #E57358;
+  opacity: 0.8;
+}
+
+.gaugeChart-needle-cap {
+  stroke: #666666;
+  fill: #4684EE;
+}
