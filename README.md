@@ -7,8 +7,8 @@ A re-creation of Google Charts's Gauge chart using D3. Only the basics are inclu
 ## Installation
 
 1. Include D3: `<script src="https://d3js.org/d3.v5.min.js"></script>`
-2. Include JS: `<script src="d3-gauge-chart.js"></script>`
-3. Include CSS: `<link rel="stylesheet" href="d3-gauge-chart.css">`
+2. Include JS: `<script src="https://unpkg.com/d3-gauge-chart"></script>`
+3. Include CSS: `<link rel="stylesheet" href="https://unpkg.com/d3-gauge-chart/d3-gauge-chart.css">`
 
 ## Usage
 
