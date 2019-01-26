@@ -1,5 +1,7 @@
 # Google-style Gauge Chart with D3
 
+![Three gauges showing a sampel of the project. One showing Memory at 73. Another showing CPU at 80. The last showing Network at 62.](screenshot.png)
+
 A re-creation of Google Charts's Gauge chart using D3. Only the basics are included: a label and a value.
 
 ## Installation
